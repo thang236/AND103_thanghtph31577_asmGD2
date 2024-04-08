@@ -16,9 +16,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter()
     }
 }
 
-rootProject.name = "AND103_thanghtph31577_Assignment"
+rootProject.name = "AND103_thanghtph31577_lab5"
 include(":app")
